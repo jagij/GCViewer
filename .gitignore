@@ -11,3 +11,5 @@
 /*.txt
 /*.iml
 /.idea/
+/.gradle/
+/build/
